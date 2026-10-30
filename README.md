@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Man 👋
 
-<!--
-**man06122005-sketch/man06122005-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Analytics Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a third-year Business Analytics student at Victoria University, Melbourne, interested in using data to solve business problems and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Visualisation:** Matplotlib
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** SQL and Power BI
+
+### Featured Projects
+
+**1. Retail Sales & Profitability Analysis**
+
+Analysed retail sales data using Python and Pandas to identify sales trends, profitability issues, discount impacts and regional performance.
+
+[View Project on GitHub](https://github.com/man06122005-sketch/retail-sales-profitability-analysis)
+
+### Currently Learning
+- SQL for Business Analysis
+- Power BI Dashboard Development
+- Advanced Data Analytics
+
+### Connect with Me
+- LinkedIn: https://www.linkedin.com/in/mai-minh-man-pham-40a811378?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- GitHub: https://github.com/man06122005-sketch
